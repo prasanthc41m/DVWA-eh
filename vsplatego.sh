@@ -8,3 +8,5 @@ service httpd restart
 
 # create database
 mysql -u root -ptoor test -e 'CREATE DATABASE IF NOT EXISTS dvwa'
+
+chmod -R 777 /var/www/html
