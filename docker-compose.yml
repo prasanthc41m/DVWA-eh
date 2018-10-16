@@ -2,6 +2,9 @@ version: '3'
 
 services:
   web:
-    image: vulnerables/web-dvwa:latest
+    image: vsplate/centos_apache2_php5_mysql5:latest
+    volumes:
+      - ./html/:/var/www/html/
+      - ./php.ini:/etc/php.ini
     ports:
       - "80:80"
