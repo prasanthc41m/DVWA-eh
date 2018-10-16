@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    image: vulnerables/web-dvwa:latest
+    ports:
+      - "80:80"
