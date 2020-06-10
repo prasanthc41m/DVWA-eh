@@ -1,8 +1,8 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-<a href="https://www.vsplate.com/?github=vulnspy/DVWA"><img alt="VSPLATE GO" src="https://raw.githubusercontent.com/vsplate/images/master/vsgo_btn.png" width="200px"></a>
+<a href="http://dev.lab.ehackify.com/?github=vulnspy/DVWA"><img alt="VSPLATE GO" src="https://raw.githubusercontent.com/vsplate/images/master/vsgo_btn.png" width="200px"></a>
 
-**Click the `VSPLATE GO` button to launch a demo online / 点击`VSPLATE GO`按钮创建在线环境**
+**Click the `HACK LAB GO` button to launch a demo online**
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
