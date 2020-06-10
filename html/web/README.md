@@ -1,6 +1,6 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-<a href="http://dev.lab.ehackify.com/?github=vulnspy/DVWA"><img alt="VSPLATE GO" src="https://raw.githubusercontent.com/vsplate/images/master/vsgo_btn.png" width="200px"></a>
+<a href="http://dev.lab.ehackify.com/?github=vulnspy/DVWA"><img alt="HACK LAB GO" src="https://raw.githubusercontent.com/ehackify/logos/master/GreenRoundedButton.png" width="200px"></a>
 
 **Click the `HACK LAB GO` button to launch a demo online**
 
