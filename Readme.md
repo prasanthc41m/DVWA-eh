@@ -1,6 +1,6 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-<a href="http://dev.lab.ehackify.com/?github=ehackify/DVWA"><img alt="HACK LAB GO" src="https://raw.githubusercontent.com/ehackify/logos/master/hack%20lab%20go%20button.png" width="200px"></a>
+<a href="http://#dev.lab.ehackify.com/?github=ehackify/DVWA"><img alt="HACK LAB GO" src="https://raw.githubusercontent.com/ehackify/logos/master/hack%20lab%20go%20button.png" width="200px"></a>
 
 **Click the `HACK LAB GO` button to launch a demo online**
 
