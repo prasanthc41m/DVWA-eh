@@ -1,7 +1,5 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-<a href="http://#dev.lab.ehackify.com/?github=ehackify/DVWA"><img alt="HACK LAB GO" src="https://raw.githubusercontent.com/ehackify/logos/master/hack%20lab%20go%20button.png" width="200px"></a>
-
 **Click the [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/prasanthc41m/DVWA-eh/master/docker-compose.yml) button to launch a demo online**
 
 
